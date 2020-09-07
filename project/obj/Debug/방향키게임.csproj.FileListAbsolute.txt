@@ -1,0 +1,87 @@
+D:\C#\프로젝트\방향키게임\방향키게임\bin\Debug\방향키게임.exe.config
+D:\C#\프로젝트\방향키게임\방향키게임\bin\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임\방향키게임\bin\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.csprojResolveAssemblyReference.cache
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.Properties.Resources.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.csproj.GenerateResource.Cache
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.csproj.CoreCompileInputs.cache
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormMain.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormMenu.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormStart.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.Formlogin.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormJoin.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormShop.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormLank.resources
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormMy.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\bin\Debug\방향키게임.exe.config
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\bin\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\bin\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.csprojResolveAssemblyReference.cache
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormJoin.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormLank.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.Formlogin.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormMain.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormMenu.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormMy.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormShop.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.FormStart.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.Properties.Resources.resources
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.csproj.GenerateResource.Cache
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.csproj.CoreCompileInputs.cache
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임 -1204게임완성\방향키게임\obj\Debug\방향키게임.pdb
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\bin\Debug\방향키게임.exe.config
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.exe
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.pdb
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\bin\Debug\방향키게임.exe
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\bin\Debug\방향키게임.pdb
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.csprojResolveAssemblyReference.cache
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormJoin.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormLank.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.Formlogin.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormMain.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormMenu.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormMy.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormShop.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.FormStart.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.Properties.Resources.resources
+C:\Users\deu\Desktop\방향키게임 -1205\방향키게임\obj\Debug\방향키게임.csproj.GenerateResource.Cache
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\bin\Debug\방향키게임.exe.config
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\bin\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\bin\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.csprojResolveAssemblyReference.cache
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormJoin.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormLank.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.Formlogin.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormMain.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormMenu.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormMy.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormShop.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.FormStart.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.Properties.Resources.resources
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.csproj.GenerateResource.Cache
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.csproj.CoreCompileInputs.cache
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임 -1205 수업시간에\방향키게임\obj\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.csprojResolveAssemblyReference.cache
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormJoin.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormLank.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.Formlogin.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormMain.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormMenu.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormMy.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormShop.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.FormStart.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.Properties.Resources.resources
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.csproj.GenerateResource.Cache
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.csproj.CoreCompileInputs.cache
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\obj\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\bin\Debug\방향키게임.exe.config
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\bin\Debug\방향키게임.exe
+D:\C#\프로젝트\방향키게임 -1205 업데이트되는거!\방향키게임\bin\Debug\방향키게임.pdb
+D:\C#\프로젝트\방향키게임\방향키게임\obj\Debug\방향키게임.FormBuy.resources
+C:\Users\user\Documents\GitHub\PenguinRaisingGame\project\obj\Debug\방향키게임.exe
+C:\Users\user\Documents\GitHub\PenguinRaisingGame\project\obj\Debug\방향키게임.pdb
