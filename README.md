@@ -1,4 +1,4 @@
-# Penguin Raising Game
+# Penguin Game
 Grow Penguin with Scores.<br>
 This game was made in 2017.<br>
 
